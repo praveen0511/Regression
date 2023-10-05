@@ -1,2 +1,2 @@
 # Regression
-Regression Tech
+Regression 
